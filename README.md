@@ -1,0 +1,2 @@
+# Construction-Site-Safety-Compliance-Pipeline-Worker-Localisation-PPE-Compliance-Classification
+Construction and industrial sites are monitored by fixed cameras that capture wide scenes containing many workers at once. A safety system cannot judge compliance on a whole frame: it must first locate each individual worker, crop that worker out, and only then decide whether that person is wearing the mandatory protective equipment. 
